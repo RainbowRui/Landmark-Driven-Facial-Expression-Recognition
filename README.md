@@ -57,3 +57,11 @@ Within ```./Landmark-Driven-Facial-Expression-Recognition``` directory, run foll
  ```bash
     bash test.sh
 ```
+
+## References
+
+[1] He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+
+[2] Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
+
+[3] Wang, Kai, et al. "Suppressing uncertainties for large-scale facial expression recognition." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.

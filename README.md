@@ -3,6 +3,8 @@ A landmark-driven method on Facial Expression Recognition (FER). The module of F
 
 Note that the module of FER is **not** the official implementation. All of the code can be only used for **research purposes**.
 
+![examples](fig/images_gallery.png)
+
 ## Update Logs:
 ### December 10, 2020
 * The source code, pretrained model and some data are released.
